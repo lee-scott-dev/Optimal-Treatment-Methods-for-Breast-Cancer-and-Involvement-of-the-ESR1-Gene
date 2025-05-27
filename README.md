@@ -1,0 +1,2 @@
+# Optimal-Treatment-Methods-for-Breast-Cancer-and-Involvement-of-the-ESR1-Gene
+Explored the relationship between ESR1 gene expression levels and breast cancer treatment outcomes using the NKI Breast Cancer Dataset. Conducted an exploratory data analysis (EDA) and utilized statistical techniques (polynomial regression, Pearson correlation, hypothesis testing) to identify trends in survival outlooks and treatment efficacies.
